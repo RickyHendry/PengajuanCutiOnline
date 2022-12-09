@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Context\" />
     <Folder Include="Handler\" />
     <Folder Include="ViewModels\" />
     <Folder Include="Repositories\Data\" />
